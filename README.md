@@ -19,5 +19,3 @@ This project aims to provide practical experience in implementing image coloriza
   - `weight_initializer.py`: Script for initializing model weights.
 - `images/`: Directory containing the images for training and testing.
 
-## Getting Started
-You can upload the notebook and the code directly in Colab. Start by exploring the `main.ipynb` notebook and filling in the TODOs to train and evaluate the image colorization model using the provided dataset. Make sure to install the required dependencies listed in `requirements.txt`. Happy coding! 🎨🖌️
