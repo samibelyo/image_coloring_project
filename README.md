@@ -2,10 +2,9 @@
 
 ## Project Overview
 
-This project aims to provide practical experience in implementing image colorization using Generative Adversarial Networks (GANs) with a U-Net architecture. Participants will work with a curated dataset of grayscale images paired with their corresponding colored images and will explore the process of training a GAN to predict colors for grayscale inputs.
+This project aims to implementing image colorization using Generative Adversarial Networks (GANs) with a U-Net architecture. worked with a curated dataset of grayscale images paired with their corresponding colored images, also implementing the process of training a GAN to predict colors for grayscale inputs.
 
 ### Objectives
-- Understanding the principles of image colorization.
 - Exploring the architecture and capabilities of U-Net GANs.
 - Training a U-Net GAN model on a custom dataset for colorization tasks.
 - Evaluating the performance of the trained model.
